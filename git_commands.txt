@@ -1,0 +1,34 @@
+ ls
+  733  ls -l
+  734  rm testing.py
+  735  ls
+  736  ls -a
+  737  ls -l
+  738  ls -a
+  739  git status
+  740  git init
+  741  ls -a
+  742  git init
+  743  ls -l
+  744  ls -a
+  745  python3 testing.py
+  746  git status
+  747  git add testing.py
+  748  ls
+  749  gitstatus
+  750  git status
+  751  git commit -m "tracking this file"
+  752  git config --global user.email "livmkhanaws.com"
+  753  git config --global user.name "Mudassir Khan"
+  754  git config --global --list
+  755  git status
+  756  git add testing.py
+  757  git status
+  758  git commit -m testing.py
+  759  git status
+  760  rm testing.py
+  761  it status
+  762  git statud
+  763  git status
+  764  git restore testing.py
+  765  git status
